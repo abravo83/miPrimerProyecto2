@@ -9,3 +9,12 @@ Experiencia Previa:
 4. Desarrollo con Flash y HTML de la web de la empresa de un amigo en 2006.
 5. Desarrollo de un proyecto como autónomo tipo SAAS de 2019 a 2022 en LAMP.
 6. Trabajo como desarrollador web con stack MEAN desde noviembre de 2022. Incluye Trabajos esporádicos con VBA.Net, MSSQL y CrystalReports. AngularJS, 12, 16 y 17.
+
+Libros y cursos que he completado (no incluyo los de consulta, sólo los prácticos):
+
+1. HeadFirst PHP + MySQL (2019). LAMP Stack.
+2. HeadFirst Javascript (2019). Programación con Javascript, manipulación del DOM.
+3. FreeCodecamp Responsive Web Design Certification (2020). HTML + CSS
+4. FreeCodecamp Javascript Algorithims And Data Structures Certification (2020). Programación con Javascript y manipulación del DOM.
+5. Udemy Colt Steele "The Git and Github Bootcamp" certification(2022). GIT.
+6. Maximiliam Swarchzmüller "Angular - The Complete Guide" certification (2023). Angular 16~17.
