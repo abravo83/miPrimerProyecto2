@@ -3,3 +3,4 @@ Voy a dividir mis conocimiento en experiencias en programación por un lado y cu
 Experiencia Previa:
 
 0. AMSTRAD CPC 6128 - BASIC - Pensé que los juegos no funcionaban porque no fuí capaz de introducir el comando "| CPC" (En el manual el caracter no concidía con la tecla del teclado) - Así que que mejor que copiar el código de los juegos que venía al final del manual... y como no funcionaban, que mejor que leer todo el manual para debuggear mi código.
+1. Web HTML con FrontPage y maquetación tablas allá por 2002 de un equipo deportivo.
